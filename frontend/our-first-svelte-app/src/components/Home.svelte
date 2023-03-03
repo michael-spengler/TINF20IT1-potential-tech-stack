@@ -22,7 +22,7 @@
 {#each ourList as fruit }
 
 <br>  
-super geile frucht: {fruit}
+super leckere frucht: {fruit}
 {/each}
 
 {/if}
