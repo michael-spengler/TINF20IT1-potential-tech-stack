@@ -1,6 +1,10 @@
 # Blockchain Programming Stack Demo
 In this demo we build a censorship free chat platform.
 
+## In General
+### Decentralized vs. Centralized Paradigms
+Not your keys - not your crypto.
+
 ## Frontend
 ### Learning Goals
 Explore and leverage [TypeScript](https://www.typescriptlang.org/) and [svelte](https://svelte.dev/).
