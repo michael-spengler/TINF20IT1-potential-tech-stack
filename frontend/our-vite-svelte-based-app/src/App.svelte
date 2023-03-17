@@ -1,6 +1,7 @@
 <script lang="ts">
   import svelteLogo from './assets/svelte.svg'
   import Counter from './lib/Counter.svelte'
+  import Metamask from './lib/Metamask.svelte'
 </script>
 
 <main>
@@ -18,6 +19,9 @@
     <Counter />
   </div>
 
+  <div class="card">
+    <Metamask />
+  </div>
   <p>
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
   </p>

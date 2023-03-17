@@ -33,7 +33,11 @@ Explore and leverage solidity (very basics).
 Explore and leverage the web3 online IDE [remix.ethereum.org](https://remix.ethereum.org).  
 
 ### Details
-I deployed the smart contract via this [transaction](https://goerli.etherscan.io/tx/0xf20e541f2f38ae85db00903baefd1ea012f95564d4347e52b902e605a41b63c6).  
+The following smart contract can be used to test things:  
+https://goerli.etherscan.io/address/0x86bb1F3B75b013a1Bdd31EFb20de79E20b137036
+
+
+It has been deployed via [this transaction](https://goerli.etherscan.io/tx/0xf20e541f2f38ae85db00903baefd1ea012f95564d4347e52b902e605a41b63c6).  
 
  
 
