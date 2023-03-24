@@ -9,7 +9,10 @@ Not your keys - not your crypto.
 ### Learning Goals
 Explore and leverage [TypeScript](https://www.typescriptlang.org/) and [svelte](https://svelte.dev/).
 We use [TypeScript](https://www.typescriptlang.org/) as Programming Language.  
-We use [svelte](https://svelte.dev/) because it seems to combine best of angular, vue and react.  
+We use [svelte](https://svelte.dev/) because it seems to combine best of angular, vue and react. See also [svelte + web3 interaction example](https://github.com/App-Entwicklung/frontend-svelte/blob/main/src/App.svelte)  
+
+**Alternativen** 
+Im Hinblick auf "Native Apps" kann https://flutter.dev interessant sein. Wobei die web3 Anbindung in diesem Kontext erfahrungsgemäß aktuell (noch) sehr [herausfordernd](https://github.com/App-Entwicklung/frontend/blob/main/lib/helpers/contract.dart#L46-L75) ist. 
 
 ### Details
 To start the frontend locally enter:  
