@@ -1,5 +1,20 @@
-# Blockchain Programming Stack Demo
-In this demo we build a censorship free chat platform.
+# TINF20IT1 Blockchain & Moderne Konzepte
+Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" können sowohl im Spezialgebiet Blockchain Technologie als auch insgesamt unter dem Stichwort Moderne Konzepte hilfreich sein.
+
+
+## Projektüberblick
+| Name         | Projekt Blockchain     | Projekt Moderne Konzepte |
+|--------------|-----------|------------|
+| Edin Music |   https://github.com/NoohDoor/SnakeCoin    | https://github.com/NoohDoor/ModerneKonzepteTrust        |
+| Lukas Michalek |   https://github.com/NoohDoor/SnakeCoin    | https://github.com/NoohDoor/ModerneKonzepteTrust        |
+| Johnny Wedel |  https://github.com/NoohDoor/SnakeCoin | | 
+| Jan Philip Werthmann |  https://github.com/NoohDoor/SnakeCoin | | 
+| Moritz Bartenbach | https://github.com/NoohDoor/SnakeCoin | | 
+| David Schwab |  https://github.com/NoohDoor/SnakeCoin | | 
+
+
+## Blockchain Programming Stack Demo
+In this demo we draft a censorship free chat platform.
 
 ## In General
 ### Decentralized vs. Centralized Paradigms
