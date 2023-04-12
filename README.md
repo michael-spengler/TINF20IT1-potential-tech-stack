@@ -11,6 +11,7 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 | Jan Philip Werthmann |  https://github.com/NoohDoor/SnakeCoin | | 
 | Moritz Bartenbach | https://github.com/NoohDoor/SnakeCoin | | 
 | David Schwab |  https://github.com/NoohDoor/SnakeCoin | | 
+| Tobias Winkler |   | https://github.com/0x7477/DonationSimulator | 
 
 
 ## Blockchain Programming Stack Demo
