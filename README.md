@@ -8,8 +8,8 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 | Edin Music |   https://github.com/NoohDoor/SnakeCoin    | https://github.com/NoohDoor/ModerneKonzepteTrust        |
 | Lukas Michalek |   https://github.com/NoohDoor/SnakeCoin    | https://github.com/NoohDoor/ModerneKonzepteTrust        |
 | Johnny Wedel |  https://github.com/NoohDoor/SnakeCoin | | 
-| Jan Philip Werthmann |  https://github.com/NoohDoor/SnakeCoin | | 
-| Moritz Bartenbach | https://github.com/NoohDoor/SnakeCoin | | 
+| Jan Philip Werthmann |  https://github.com/NoohDoor/SnakeCoin | https://github.com/FigurDesign/UnitConverter.git | 
+| Moritz Bartenbach | https://github.com/NoohDoor/SnakeCoin | https://github.com/FigurDesign/UnitConverter.git | 
 | David Schwab |  https://github.com/NoohDoor/SnakeCoin | | 
 | Tobias Winkler |   | https://github.com/0x7477/DonationSimulator | 
 
