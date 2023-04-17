@@ -12,6 +12,9 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 | Moritz Bartenbach | https://github.com/NoohDoor/SnakeCoin | | 
 | David Schwab |  https://github.com/NoohDoor/SnakeCoin | | 
 | Tobias Winkler |   | https://github.com/0x7477/DonationSimulator | 
+| Luca Tiedemann | https://github.com/techsupport-noah/ChainOfTrust | | 
+| Belana Roman | https://github.com/techsupport-noah/ChainOfTrust | | 
+| Noah Wiederhold | https://github.com/techsupport-noah/ChainOfTrust | | 
 
 
 ## Blockchain Programming Stack Demo
