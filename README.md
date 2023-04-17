@@ -12,6 +12,10 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 | Moritz Bartenbach | https://github.com/NoohDoor/SnakeCoin | | 
 | David Schwab |  https://github.com/NoohDoor/SnakeCoin | | 
 | Tobias Winkler |   | https://github.com/0x7477/DonationSimulator | 
+| Louis Dorweiler | https://github.com/Ethernol/C2H6O | https://github.com/russiankidgohax/MarxCoin |
+| Simon Spielmann | https://github.com/Ethernol/C2H6O | |
+| Jörn Vaupel | https://github.com/Ethernol/C2H6O | |
+| Pascal Fitzner | https://github.com/Ethernol/C2H6O | |
 | Luca Tiedemann | https://github.com/techsupport-noah/ChainOfTrust | | 
 | Belana Roman | https://github.com/techsupport-noah/ChainOfTrust | | 
 | Noah Wiederhold | https://github.com/techsupport-noah/ChainOfTrust | | 
