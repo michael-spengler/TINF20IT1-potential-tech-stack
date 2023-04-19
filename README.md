@@ -27,6 +27,12 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 | [SnakeCoin](https://github.com/NoohDoor/SnakeCoin) (Blockchain) | Super Thema. Ausdauernd umgesetzt. Mehr Links und oder Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 93        |
 | [Ethernol](https://github.com/Ethernol/C2H6O)  (Blockchain) | Screenshots in der Readme - welche den Sinn und Zweck der Applikation beschreiben - wären hilfreich für Besucher und mögliche Contributors. Zusätzlich wäre hilfreich für den Leser warum welche Technologie wofür gewählt wurde. Den "About" Text im Repo definieren (rechts oben im Repo)   | 90        |
 | [Chain Of Trust](https://github.com/techsupport-noah/ChainOfTrust)  (Blockchain) | Herausforderndes Thema ausdauernd umgesetzt. Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 93        |
+| [Trust](https://github.com/NoohDoor/ModerneKonzepteTrust) (Moderne Konzepte) | tbd    | tbd        |
+| [Unit Converter](https://github.com/FigurDesign/UnitConverter.git) (Moderne Konzepte) | tbd    | tbd        |
+| [Donation Simulator](https://github.com/0x7477/DonationSimulator) (Moderne Konzepte) | tbd    | tbd        |
+| [Marx Coin](https://github.com/russiankidgohax/MarxCoin) (Moderne Konzepte) | tbd    | 99        |
+
+
 
 
 ## Blockchain Programming Stack Demo
