@@ -21,6 +21,14 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 | Noah Wiederhold | https://github.com/techsupport-noah/ChainOfTrust | | 
 
 
+## Vorläufige Punktevergabe und Feedback
+| Projekt      | Übriggebliebene Anregungen / Feedback     | Vorläufige Punktevergabe von 100 |
+|--------------|-----------|------------|
+| [SnakeCoin](https://github.com/NoohDoor/SnakeCoin) (Blockchain) | Super Thema. Ausdauernd umgesetzt. Mehr Links und oder Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 93        |
+| [Ethernol](https://github.com/Ethernol/C2H6O)  (Blockchain) | Screenshots in der Readme - welche den Sinn und Zweck der Applikation beschreiben - wären hilfreich für Besucher und mögliche Contributors. Zusätzlich wäre hilfreich für den Leser warum welche Technologie wofür gewählt wurde. Den "About" Text im Repo definieren (rechts oben im Repo)   | 90        |
+| [Chain Of Trust](https://github.com/techsupport-noah/ChainOfTrust)  (Blockchain) | Herausforderndes Thema ausdauernd umgesetzt. Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 93        |
+
+
 ## Blockchain Programming Stack Demo
 In this demo we draft a censorship free chat platform.
 
