@@ -1,8 +1,24 @@
 # TINF20IT1 Blockchain & Moderne Konzepte
 Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" können sowohl im Spezialgebiet Blockchain Technologie als auch insgesamt unter dem Stichwort Moderne Konzepte hilfreich sein.
 
+## Projektüberblick & übriggebliebene Anregungen zu den jeweiligen Projekten
+| Projekt      | Übriggebliebene Anregungen / Feedback     | Punkte von 100 |
+|--------------|-----------|------------|
+| [SnakeCoin](https://github.com/NoohDoor/SnakeCoin) (Blockchain) | Super Thema. Ausdauernd umgesetzt. Mehr Links und oder Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 96 (1,2)       |
+| [Ethernol](https://github.com/Ethernol/C2H6O)  (Blockchain) | Screenshots in der Readme - welche den Sinn und Zweck der Applikation beschreiben - wären hilfreich für Besucher und mögliche Contributors. Zusätzlich wäre hilfreich für den Leser warum welche Technologie wofür gewählt wurde. Den "About" Text im Repo definieren (rechts oben im Repo) - Fortschritt siehe https://github.com/Ethernol/C2H6O/issues/4  | 96 (1,2)        |
+| [Chain Of Trust](https://github.com/techsupport-noah/ChainOfTrust)  (Blockchain) | Herausforderndes Thema ausdauernd umgesetzt (trotz extrem vieler Herausforderungen im Hinblick auf noch nicht ausgereifte web3 Werkzeuge). Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. --> war bereits gelöst allerdings passten die links nicht - die Pfade wurden korrigiert so dass die Screenshots nun sichtbar sind. Aktuell noch offen: Den "About" Text im Repo definieren (rechts oben im Repo)  | 96 (1,2)        |
+| [Trust](https://github.com/NoohDoor/ModerneKonzepteTrust) (Moderne Konzepte) | Cooles Thema. Angemessener Umfang bezüglich der Implementierung. Screenshots wären auch in dieser README m.E. super und oder ein link zur "deployten" app ... damit der besucher schnell sehen kann wie das konkret aussieht. https://github.com/NoohDoor/ModerneKonzepteTrust/issues/1   | 95 (1,3)        |
+| [Unit Converter](https://github.com/FigurDesign/UnitConverter.git) (Moderne Konzepte) | Cooles Thema. Wertvolle Open Source Assets. Ein Highlight für mich war https://github.com/FigurDesign/UnitConverter/tree/main/Uniswap_Converter -  Optimierungspotentiale (Low hanging fruits): https://github.com/FigurDesign/UnitConverter/issues/2    | 95 (1,3)        |
+| [Donation Simulator](https://github.com/0x7477/DonationSimulator) (Moderne Konzepte) | Spannendes Thema. Gut und ausdauernd umgesetzt. (Zusätzliche) Screenshots der web app innerhalb der readme oder ein link auf die "deployte" web app an sich wäre m.E. perfekt um anhand der readme noch schneller zu checken wie genau die web app aussieht und benutzt werden kann. Details siehe: https://github.com/0x7477/DonationSimulator/issues/1 - Aktuell noch offen: Den "About" Text im Repo definieren (rechts oben im Repo)    | 96 (1,2)        |
+| [Marx Coin](https://github.com/russiankidgohax/MarxCoin) (Moderne Konzepte) | Sehr ganzheitliche und gleichzeitig in einigen Bereichen fokussierte Erkundung innovativer Themen und Technologien. Sehr ausdauernd erkundet und umgesetzt. Ein Highlight hier war m.E. auch das erstellte Value Proposition Canvas (https://github.com/russiankidgohax/MarxCoin/blob/main/docs/Value-Proposition-Canvas.png)   | 99 (1,0)       |
 
-## Projektüberblick & Punkte
+
+## Genutzte Punktetabelle
+https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/Punkte-Noten-Tabelle%202022.pdf
+
+
+
+## Punkteliste und Zuordnung
 | Name         | Punkte von Hundert Blockchain     | Punkte von Hundert Moderne Konzepte | Projekt Blockchain     | Projekt Moderne Konzepte |
 |--------------|-----------|------------|-----------|------------|
 | Edin Music | 96 (1,2) | 95 (1,3) |   https://github.com/NoohDoor/SnakeCoin    | https://github.com/NoohDoor/ModerneKonzepteTrust        |
@@ -19,21 +35,6 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 | Luca Tiedemann | 96 (1,2) | | https://github.com/techsupport-noah/ChainOfTrust | | 
 | Belana Roman | 96 (1,2) | | https://github.com/techsupport-noah/ChainOfTrust | | 
 | Noah Wiederhold | 96 (1,2) | | https://github.com/techsupport-noah/ChainOfTrust | | 
-
-## Genutzte Punktetabelle
-https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/Punkte-Noten-Tabelle%202022.pdf
-
-
-## Details zur Bewertung
-| Projekt      | Übriggebliebene Anregungen / Feedback     | Punktevergabe von 100 |
-|--------------|-----------|------------|
-| [SnakeCoin](https://github.com/NoohDoor/SnakeCoin) (Blockchain) | Super Thema. Ausdauernd umgesetzt. Mehr Links und oder Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 96 (1,2)       |
-| [Ethernol](https://github.com/Ethernol/C2H6O)  (Blockchain) | Screenshots in der Readme - welche den Sinn und Zweck der Applikation beschreiben - wären hilfreich für Besucher und mögliche Contributors. Zusätzlich wäre hilfreich für den Leser warum welche Technologie wofür gewählt wurde. Den "About" Text im Repo definieren (rechts oben im Repo) - Fortschritt siehe https://github.com/Ethernol/C2H6O/issues/4  | 96 (1,2)        |
-| [Chain Of Trust](https://github.com/techsupport-noah/ChainOfTrust)  (Blockchain) | Herausforderndes Thema ausdauernd umgesetzt (trotz extrem vieler Herausforderungen im Hinblick auf noch nicht ausgereifte web3 Werkzeuge). Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. --> war bereits gelöst allerdings passten die links nicht - die Pfade wurden korrigiert so dass die Screenshots nun sichtbar sind. Aktuell noch offen: Den "About" Text im Repo definieren (rechts oben im Repo)  | 96 (1,2)        |
-| [Trust](https://github.com/NoohDoor/ModerneKonzepteTrust) (Moderne Konzepte) | Cooles Thema. Angemessener Umfang bezüglich der Implementierung. Screenshots wären auch in dieser README m.E. super und oder ein link zur "deployten" app ... damit der besucher schnell sehen kann wie das konkret aussieht. https://github.com/NoohDoor/ModerneKonzepteTrust/issues/1   | 95 (1,3)        |
-| [Unit Converter](https://github.com/FigurDesign/UnitConverter.git) (Moderne Konzepte) | Cooles Thema. Wertvolle Open Source Assets. Ein Highlight für mich war https://github.com/FigurDesign/UnitConverter/tree/main/Uniswap_Converter -  Optimierungspotentiale (Low hanging fruits): https://github.com/FigurDesign/UnitConverter/issues/2    | 95 (1,3)        |
-| [Donation Simulator](https://github.com/0x7477/DonationSimulator) (Moderne Konzepte) | Spannendes Thema. Gut und ausdauernd umgesetzt. (Zusätzliche) Screenshots der web app innerhalb der readme oder ein link auf die "deployte" web app an sich wäre m.E. perfekt um anhand der readme noch schneller zu checken wie genau die web app aussieht und benutzt werden kann. Details siehe: https://github.com/0x7477/DonationSimulator/issues/1 - Aktuell noch offen: Den "About" Text im Repo definieren (rechts oben im Repo)    | 96 (1,2)        |
-| [Marx Coin](https://github.com/russiankidgohax/MarxCoin) (Moderne Konzepte) | Sehr ganzheitliche und gleichzeitig in einigen Bereichen fokussierte Erkundung innovativer Themen und Technologien. Sehr ausdauernd erkundet und umgesetzt. Ein Highlight hier war m.E. auch das erstellte Value Proposition Canvas (https://github.com/russiankidgohax/MarxCoin/blob/main/docs/Value-Proposition-Canvas.png)   | 99 (1,0)       |
 
 
 
