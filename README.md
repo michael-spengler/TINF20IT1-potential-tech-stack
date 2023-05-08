@@ -16,7 +16,7 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 ## Genutzte Punktetabelle
 https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/Punkte-Noten-Tabelle%202022.pdf
 
-## Generelles Feedback and die Studierenden
+## Generelles Feedback
 Ich habe wirklich probiert differenziert und sehr kritisch zu bewerten. Auch vor diesem Hintergrund kann ich sagen, dass Ihr alle super motiviert, talentiert, fleißig und erfolgreich an der Erkundung neuer Themen gearbeitet habt und Euch die entsprechenden Erfahrungen und Fähigkeiten im "Learning by Doing" Modus super schnell aneignen konntet. Danke.
 
 ## Punkteliste und Zuordnung
