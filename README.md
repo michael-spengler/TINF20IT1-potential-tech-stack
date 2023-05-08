@@ -1,7 +1,7 @@
 # TINF20IT1 Blockchain & Moderne Konzepte
 Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" können sowohl im Spezialgebiet Blockchain Technologie als auch insgesamt unter dem Stichwort Moderne Konzepte hilfreich sein.
 
-## Projektüberblick & übriggebliebene Anregungen zu den jeweiligen Projekten
+## Projektüberblick 
 | Projekt      | Übriggebliebene Anregungen / Feedback     | Punkte von 100 |
 |--------------|-----------|------------|
 | [SnakeCoin](https://github.com/NoohDoor/SnakeCoin) (Blockchain) | Super Thema. Ausdauernd umgesetzt. Mehr Links und oder Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 96 (1,2)       |
@@ -16,7 +16,8 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 ## Genutzte Punktetabelle
 https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/Punkte-Noten-Tabelle%202022.pdf
 
-
+## Generelles Feedback and die Studierenden
+Ich habe wirklich probiert differenziert und sehr kritisch zu bewerten. Auch vor diesem Hintergrund kann ich sagen, dass Ihr alle super motiviert, talentiert, fleißig und erfolgreich an der Erkundung neuer Themen gearbeitet habt und Euch die entsprechenden Erfahrungen und Fähigkeiten im "Learning by Doing" Modus super schnell aneignen konntet. Danke.
 
 ## Punkteliste und Zuordnung
 | Name         | Punkte von Hundert Blockchain     | Punkte von Hundert Moderne Konzepte | Projekt Blockchain     | Projekt Moderne Konzepte |
