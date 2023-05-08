@@ -3,7 +3,7 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 
 
 ## Projektüberblick & Punkte
-| Name         | Punkte Blockchain     | Punkte Moderne Konzepte | Projekt Blockchain     | Projekt Moderne Konzepte |
+| Name         | Punkte von Hundert Blockchain     | Punkte von Hundert Moderne Konzepte | Projekt Blockchain     | Projekt Moderne Konzepte |
 |--------------|-----------|------------|-----------|------------|
 | Edin Music | 96 (1,2) | 95 (1,3) |   https://github.com/NoohDoor/SnakeCoin    | https://github.com/NoohDoor/ModerneKonzepteTrust        |
 | Lukas Michalek | 96 (1,2) | 95 (1,3) |   https://github.com/NoohDoor/SnakeCoin    | https://github.com/NoohDoor/ModerneKonzepteTrust        |
@@ -25,7 +25,7 @@ https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/Pu
 
 
 ## Details zur Bewertung
-| Projekt      | Übriggebliebene Anregungen / Feedback     | Vorläufige Punktevergabe von 100 |
+| Projekt      | Übriggebliebene Anregungen / Feedback     | Punktevergabe von 100 |
 |--------------|-----------|------------|
 | [SnakeCoin](https://github.com/NoohDoor/SnakeCoin) (Blockchain) | Super Thema. Ausdauernd umgesetzt. Mehr Links und oder Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 96 (1,2)       |
 | [Ethernol](https://github.com/Ethernol/C2H6O)  (Blockchain) | Screenshots in der Readme - welche den Sinn und Zweck der Applikation beschreiben - wären hilfreich für Besucher und mögliche Contributors. Zusätzlich wäre hilfreich für den Leser warum welche Technologie wofür gewählt wurde. Den "About" Text im Repo definieren (rechts oben im Repo) - Fortschritt siehe https://github.com/Ethernol/C2H6O/issues/4  | 96 (1,2)        |
