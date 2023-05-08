@@ -25,18 +25,19 @@ Die in diesem Repo gesammelten Komponenten für einen möglichen "Tech Stack" k�
 | Projekt      | Übriggebliebene Anregungen / Feedback     | Vorläufige Punktevergabe von 100 |
 |--------------|-----------|------------|
 | [SnakeCoin](https://github.com/NoohDoor/SnakeCoin) (Blockchain) | Super Thema. Ausdauernd umgesetzt. Mehr Links und oder Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 93        |
-| [Ethernol](https://github.com/Ethernol/C2H6O)  (Blockchain) | Screenshots in der Readme - welche den Sinn und Zweck der Applikation beschreiben - wären hilfreich für Besucher und mögliche Contributors. Zusätzlich wäre hilfreich für den Leser warum welche Technologie wofür gewählt wurde. Den "About" Text im Repo definieren (rechts oben im Repo)   | 90        |
-| [Chain Of Trust](https://github.com/techsupport-noah/ChainOfTrust)  (Blockchain) | Herausforderndes Thema ausdauernd umgesetzt. Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 93        |
-| [Trust](https://github.com/NoohDoor/ModerneKonzepteTrust) (Moderne Konzepte) | tbd    | tbd        |
-| [Unit Converter](https://github.com/FigurDesign/UnitConverter.git) (Moderne Konzepte) | tbd    | tbd        |
-| [Donation Simulator](https://github.com/0x7477/DonationSimulator) (Moderne Konzepte) | tbd    | tbd        |
-| [Marx Coin](https://github.com/russiankidgohax/MarxCoin) (Moderne Konzepte) | tbd    | 99        |
+| [Ethernol](https://github.com/Ethernol/C2H6O)  (Blockchain) | Screenshots in der Readme - welche den Sinn und Zweck der Applikation beschreiben - wären hilfreich für Besucher und mögliche Contributors. Zusätzlich wäre hilfreich für den Leser warum welche Technologie wofür gewählt wurde. Den "About" Text im Repo definieren (rechts oben im Repo) - Fortschritt siehe https://github.com/Ethernol/C2H6O/issues/4  | 91        |
+| [Chain Of Trust](https://github.com/techsupport-noah/ChainOfTrust)  (Blockchain) | Herausforderndes Thema ausdauernd umgesetzt (trotz extrem vieler Herausforderungen im Hinblick auf noch nicht ausgereifte web3 Werkzeuge). Screenshots in der Readme wären hilfreich für Besucher und mögliche Contributors. Den "About" Text im Repo definieren (rechts oben im Repo)    | 94        |
+| [Trust](https://github.com/NoohDoor/ModerneKonzepteTrust) (Moderne Konzepte) | Cooles Thema. Angemessener Umfang bezüglich der Implementierung.   | 92        |
+| [Unit Converter](https://github.com/FigurDesign/UnitConverter.git) (Moderne Konzepte) | Cooles Thema. Angemessener Umfang. Wertvolle Open Source Assets. Optimierungspotentiale (Low hanging fruits): https://github.com/FigurDesign/UnitConverter/issues/2    | 93        |
+| [Donation Simulator](https://github.com/0x7477/DonationSimulator) (Moderne Konzepte) | Spannendes Thema. Gut und ausdauernd umgesetzt. (Zusätzliche) Screenshots der web app innerhalb der readme oder ein link auf die "deployte" web app an sich wäre m.E. perfekt um anhand der readme noch schneller zu checken wie genau die web app aussieht und benutzt werden kann. Details siehe: https://github.com/0x7477/DonationSimulator/issues/1     | 96 (1,2)        |
+| [Marx Coin](https://github.com/russiankidgohax/MarxCoin) (Moderne Konzepte) | Sehr ganzheitliche und gleichzeitig in einigen Bereichen fokussierte Erkundung innovativer web3 Themen. Sehr ausdauernd erkundet und umgesetzt.    | 99 (1,0)       |
 
-
+## Genutzte Punktetabelle
+https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/Punkte-Noten-Tabelle%202022.pdf
 
 
 ## Blockchain Programming Stack Demo
-In this demo we draft a censorship free chat platform.
+In this context we drafted a censorship resistant chat platform. This served as conceptual and technological inspiration for the individual projects designed and implemented by the students - see overview above.
 
 ## In General
 ### Decentralized vs. Centralized Paradigms
